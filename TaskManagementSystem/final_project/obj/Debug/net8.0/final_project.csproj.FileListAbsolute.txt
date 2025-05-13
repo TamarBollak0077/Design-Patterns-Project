@@ -1,0 +1,28 @@
+H:\server\designPattern\final_project\final_project\obj\Debug\net8.0\final_project.GeneratedMSBuildEditorConfig.editorconfig
+H:\server\designPattern\final_project\final_project\obj\Debug\net8.0\final_project.AssemblyInfoInputs.cache
+H:\server\designPattern\final_project\final_project\obj\Debug\net8.0\final_project.AssemblyInfo.cs
+H:\server\designPattern\final_project\final_project\obj\Debug\net8.0\final_project.csproj.CoreCompileInputs.cache
+H:\server\designPattern\final_project\final_project\bin\Debug\net8.0\final_project.exe
+H:\server\designPattern\final_project\final_project\bin\Debug\net8.0\final_project.deps.json
+H:\server\designPattern\final_project\final_project\bin\Debug\net8.0\final_project.runtimeconfig.json
+H:\server\designPattern\final_project\final_project\bin\Debug\net8.0\final_project.dll
+H:\server\designPattern\final_project\final_project\bin\Debug\net8.0\final_project.pdb
+H:\server\designPattern\final_project\final_project\obj\Debug\net8.0\final_project.dll
+H:\server\designPattern\final_project\final_project\obj\Debug\net8.0\refint\final_project.dll
+H:\server\designPattern\final_project\final_project\obj\Debug\net8.0\final_project.pdb
+H:\server\designPattern\final_project\final_project\obj\Debug\net8.0\final_project.genruntimeconfig.cache
+H:\server\designPattern\final_project\final_project\obj\Debug\net8.0\ref\final_project.dll
+H:\לימודים הנדסאים\Design Patterns\final_project\final_project\bin\Debug\net8.0\final_project.exe
+H:\לימודים הנדסאים\Design Patterns\final_project\final_project\bin\Debug\net8.0\final_project.deps.json
+H:\לימודים הנדסאים\Design Patterns\final_project\final_project\bin\Debug\net8.0\final_project.runtimeconfig.json
+H:\לימודים הנדסאים\Design Patterns\final_project\final_project\bin\Debug\net8.0\final_project.dll
+H:\לימודים הנדסאים\Design Patterns\final_project\final_project\bin\Debug\net8.0\final_project.pdb
+H:\לימודים הנדסאים\Design Patterns\final_project\final_project\obj\Debug\net8.0\final_project.GeneratedMSBuildEditorConfig.editorconfig
+H:\לימודים הנדסאים\Design Patterns\final_project\final_project\obj\Debug\net8.0\final_project.AssemblyInfoInputs.cache
+H:\לימודים הנדסאים\Design Patterns\final_project\final_project\obj\Debug\net8.0\final_project.AssemblyInfo.cs
+H:\לימודים הנדסאים\Design Patterns\final_project\final_project\obj\Debug\net8.0\final_project.csproj.CoreCompileInputs.cache
+H:\לימודים הנדסאים\Design Patterns\final_project\final_project\obj\Debug\net8.0\final_project.dll
+H:\לימודים הנדסאים\Design Patterns\final_project\final_project\obj\Debug\net8.0\refint\final_project.dll
+H:\לימודים הנדסאים\Design Patterns\final_project\final_project\obj\Debug\net8.0\final_project.pdb
+H:\לימודים הנדסאים\Design Patterns\final_project\final_project\obj\Debug\net8.0\final_project.genruntimeconfig.cache
+H:\לימודים הנדסאים\Design Patterns\final_project\final_project\obj\Debug\net8.0\ref\final_project.dll

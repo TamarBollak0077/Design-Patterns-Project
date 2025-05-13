@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\models\\taskbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\models\\taskbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\models\\toconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\models\\toconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\models\\taskactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\models\\taskactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\models\\qa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\models\\qa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\models\\inprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\models\\inprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\models\\done.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\models\\done.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\models\\codereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\models\\codereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\interfaces\\istatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\interfaces\\istatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\enums\\priorityoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\enums\\priorityoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\interfaces\\imemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\interfaces\\imemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\interfaces\\isendable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\interfaces\\isendable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|h:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\design patterns\\final_project\\final_project\\interfaces\\itime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDF662-C7AB-41D8-AF51-21DB4AC3AA2C}|final_project\\final_project.csproj|solutionrelative:final_project\\interfaces\\itime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "final_project\\Models\\Task.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\Task.cs",
+              "RelativeToolTip": "final_project\\Models\\Task.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wCUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:16:24.295Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Program.cs",
+              "RelativeDocumentMoniker": "final_project\\Program.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Program.cs",
+              "RelativeToolTip": "final_project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:15:52.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InProgress.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\InProgress.cs",
+              "RelativeDocumentMoniker": "final_project\\Models\\InProgress.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\InProgress.cs",
+              "RelativeToolTip": "final_project\\Models\\InProgress.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:42:54.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Message.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "final_project\\Models\\Message.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\Message.cs",
+              "RelativeToolTip": "final_project\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:11:51.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskBuilder.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\TaskBuilder.cs",
+              "RelativeDocumentMoniker": "final_project\\Models\\TaskBuilder.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\TaskBuilder.cs",
+              "RelativeToolTip": "final_project\\Models\\TaskBuilder.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:29:53.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Done.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\Done.cs",
+              "RelativeDocumentMoniker": "final_project\\Models\\Done.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\Done.cs",
+              "RelativeToolTip": "final_project\\Models\\Done.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:44:13.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CodeReview.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\CodeReview.cs",
+              "RelativeDocumentMoniker": "final_project\\Models\\CodeReview.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\CodeReview.cs",
+              "RelativeToolTip": "final_project\\Models\\CodeReview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:43:29.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "final_project\\Models\\Employees.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\Employees.cs",
+              "RelativeToolTip": "final_project\\Models\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:06:17.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TODO.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\TODO.cs",
+              "RelativeDocumentMoniker": "final_project\\Models\\TODO.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\TODO.cs",
+              "RelativeToolTip": "final_project\\Models\\TODO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:42:19.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskActions.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\TaskActions.cs",
+              "RelativeDocumentMoniker": "final_project\\Models\\TaskActions.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\TaskActions.cs",
+              "RelativeToolTip": "final_project\\Models\\TaskActions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:04:20.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QA.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\QA.cs",
+              "RelativeDocumentMoniker": "final_project\\Models\\QA.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\QA.cs",
+              "RelativeToolTip": "final_project\\Models\\QA.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:44:00.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToConsole.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\ToConsole.cs",
+              "RelativeDocumentMoniker": "final_project\\Models\\ToConsole.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\ToConsole.cs",
+              "RelativeToolTip": "final_project\\Models\\ToConsole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:14:05.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\User.cs",
+              "RelativeDocumentMoniker": "final_project\\Models\\User.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Models\\User.cs",
+              "RelativeToolTip": "final_project\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:13:14.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IStatus.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Interfaces\\IStatus.cs",
+              "RelativeDocumentMoniker": "final_project\\Interfaces\\IStatus.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Interfaces\\IStatus.cs",
+              "RelativeToolTip": "final_project\\Interfaces\\IStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:37:17.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PriorityOptions.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Enums\\PriorityOptions.cs",
+              "RelativeDocumentMoniker": "final_project\\Enums\\PriorityOptions.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Enums\\PriorityOptions.cs",
+              "RelativeToolTip": "final_project\\Enums\\PriorityOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:19:44.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Role.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Enums\\Role.cs",
+              "RelativeDocumentMoniker": "final_project\\Enums\\Role.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Enums\\Role.cs",
+              "RelativeToolTip": "final_project\\Enums\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:11:05.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMemento.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Interfaces\\IMemento.cs",
+              "RelativeDocumentMoniker": "final_project\\Interfaces\\IMemento.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Interfaces\\IMemento.cs",
+              "RelativeToolTip": "final_project\\Interfaces\\IMemento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:03:13.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISendable.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Interfaces\\ISendable.cs",
+              "RelativeDocumentMoniker": "final_project\\Interfaces\\ISendable.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Interfaces\\ISendable.cs",
+              "RelativeToolTip": "final_project\\Interfaces\\ISendable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:11:22.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITime.cs",
+              "DocumentMoniker": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Interfaces\\ITime.cs",
+              "RelativeDocumentMoniker": "final_project\\Interfaces\\ITime.cs",
+              "ToolTip": "H:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\Design Patterns\\final_project\\final_project\\Interfaces\\ITime.cs",
+              "RelativeToolTip": "final_project\\Interfaces\\ITime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:01:01.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
